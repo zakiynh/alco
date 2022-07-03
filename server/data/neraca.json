@@ -1,0 +1,812 @@
+[
+    {
+        "code": "101",
+        "account_name": "Cash",
+        "type": "Current Asset",
+        "pos_saldo": "DEBET",
+        "pos_laporan": "NERACA",
+        "debet": "3321199979",
+        "credit": 0
+    },
+    {
+        "code": "102",
+        "account_name": "BCA - Alco Sarijaya",
+        "type": "Bank",
+        "pos_saldo": "DEBET",
+        "pos_laporan": "NERACA",
+        "debet": 0,
+        "credit": 0
+    },
+    {
+        "code": "103",
+        "account_name": "Panin - Alco Sarijaya",
+        "type": "Bank",
+        "pos_saldo": "DEBET",
+        "pos_laporan": "NERACA",
+        "debet": "2141208",
+        "credit": 0
+    },
+    {
+        "code": "104",
+        "account_name": "Alco Sarijaya - Raw Material",
+        "type": "Bank",
+        "pos_saldo": "DEBET",
+        "pos_laporan": "NERACA",
+        "debet": "496086",
+        "credit": 0
+    },
+    {
+        "code": "105",
+        "account_name": "Alco Sarijaya - Overhead",
+        "type": "Bank",
+        "pos_saldo": "DEBET",
+        "pos_laporan": "NERACA",
+        "debet": "2920316",
+        "credit": 0
+    },
+    {
+        "code": "106",
+        "account_name": "Alco Sarijaya - Pajak",
+        "type": "Bank",
+        "pos_saldo": "DEBET",
+        "pos_laporan": "NERACA",
+        "debet": "112351910",
+        "credit": 0
+    },
+    {
+        "code": "107",
+        "account_name": "Alco Sarijaya - Gudang",
+        "type": "Bank",
+        "pos_saldo": "DEBET",
+        "pos_laporan": "NERACA",
+        "debet": "1536524",
+        "credit": 0
+    },
+    {
+        "code": "108",
+        "account_name": "Alco Sarijaya - Dana Operasional",
+        "type": "Bank",
+        "pos_saldo": "DEBET",
+        "pos_laporan": "NERACA",
+        "debet": "6421484",
+        "credit": 0
+    },
+    {
+        "code": "109",
+        "account_name": "Petty Cash Alco",
+        "type": "Bank",
+        "pos_saldo": "DEBET",
+        "pos_laporan": "NERACA",
+        "debet": 0,
+        "credit": 0
+    },
+    {
+        "code": "110",
+        "account_name": "BCA USD - Alco Sarijaya",
+        "type": "",
+        "pos_saldo": "DEBET",
+        "pos_laporan": "NERACA",
+        "debet": "1311891",
+        "credit": 0
+    },
+    {
+        "code": "111",
+        "account_name": "Accounts Receivable ",
+        "type": "Current Asset",
+        "pos_saldo": "DEBET",
+        "pos_laporan": "NERACA",
+        "debet": "723838891",
+        "credit": 0
+    },
+    {
+        "code": "112",
+        "account_name": "Other Receivable ",
+        "type": "Current Asset",
+        "pos_saldo": "DEBET",
+        "pos_laporan": "NERACA",
+        "debet": 0,
+        "credit": 0
+    },
+    {
+        "code": "113",
+        "account_name": "Receivable to PT. Diza Interior",
+        "type": "Current Asset",
+        "pos_saldo": "DEBET",
+        "pos_laporan": "NERACA",
+        "debet": 0,
+        "credit": 0
+    },
+    {
+        "code": "114",
+        "account_name": "WIP-RM Inventory",
+        "type": "Current Asset",
+        "pos_saldo": "DEBET",
+        "pos_laporan": "NERACA",
+        "debet": "5735475862",
+        "credit": 0
+    },
+    {
+        "code": "115",
+        "account_name": "Prepayments",
+        "type": "Current Asset",
+        "pos_saldo": "DEBET",
+        "pos_laporan": "NERACA",
+        "debet": 0,
+        "credit": 0
+    },
+    {
+        "code": "116",
+        "account_name": "Refundable Deposits",
+        "type": "Current Asset",
+        "pos_saldo": "DEBET",
+        "pos_laporan": "NERACA",
+        "debet": 0,
+        "credit": 0
+    },
+    {
+        "code": "117",
+        "account_name": "Prepaid Tax",
+        "type": "Current Asset",
+        "pos_saldo": "DEBET",
+        "pos_laporan": "NERACA",
+        "debet": 0,
+        "credit": 0
+    },
+    {
+        "code": "120",
+        "account_name": "VAT - In",
+        "type": "Current Asset",
+        "pos_saldo": "DEBET",
+        "pos_laporan": "NERACA",
+        "debet": 0,
+        "credit": 0
+    },
+    {
+        "code": "121",
+        "account_name": "Withholding Tax - Art 23 ",
+        "type": "Current Asset",
+        "pos_saldo": "DEBET",
+        "pos_laporan": "NERACA",
+        "debet": 0,
+        "credit": 0
+    },
+    {
+        "code": "122",
+        "account_name": "Withholding Tax - Art 22 ",
+        "type": "Current Asset",
+        "pos_saldo": "DEBET",
+        "pos_laporan": "NERACA",
+        "debet": 0,
+        "credit": 0
+    },
+    {
+        "code": "123",
+        "account_name": "Withholding Tax - Art 25 ",
+        "type": "Current Asset",
+        "pos_saldo": "DEBET",
+        "pos_laporan": "NERACA",
+        "debet": 0,
+        "credit": 0
+    },
+    {
+        "code": "131",
+        "account_name": "Computer Equipment",
+        "type": "Fixed Asset",
+        "pos_saldo": "DEBET",
+        "pos_laporan": "NERACA",
+        "debet": "40924090",
+        "credit": 0
+    },
+    {
+        "code": "132",
+        "account_name": "Office Equipment ",
+        "type": "Fixed Asset",
+        "pos_saldo": "DEBET",
+        "pos_laporan": "NERACA",
+        "debet": "25529000",
+        "credit": 0
+    },
+    {
+        "code": "141",
+        "account_name": "Less Accumulated Depreciation on Office Equipment",
+        "type": "Fixed Asset",
+        "pos_saldo": "KREDIT",
+        "pos_laporan": "NERACA",
+        "debet": 0,
+        "credit": "21362333"
+    },
+    {
+        "code": "142",
+        "account_name": "Less Accumulated Depreciation on Computer Equipment",
+        "type": "Fixed Asset",
+        "pos_saldo": "KREDIT",
+        "pos_laporan": "NERACA",
+        "debet": 0,
+        "credit": "22245114"
+    },
+    {
+        "code": "133",
+        "account_name": "Vehicle ",
+        "type": "Fixed Asset",
+        "pos_saldo": "DEBET",
+        "pos_laporan": "NERACA",
+        "debet": "1884394178",
+        "credit": 0
+    },
+    {
+        "code": "143",
+        "account_name": "Less Accumulated Depreciation on Vehicle ",
+        "type": "Fixed Asset",
+        "pos_saldo": "KREDIT",
+        "pos_laporan": "NERACA",
+        "debet": 0,
+        "credit": "1100484942"
+    },
+    {
+        "code": "134",
+        "account_name": "Building",
+        "type": "Fixed Asset",
+        "pos_saldo": "DEBET",
+        "pos_laporan": "NERACA",
+        "debet": "942315000",
+        "credit": 0
+    },
+    {
+        "code": "145",
+        "account_name": "Less Accumulated Depreciation on Building",
+        "type": "Fixed Asset",
+        "pos_saldo": "KREDIT",
+        "pos_laporan": "NERACA",
+        "debet": 0,
+        "credit": "380852313"
+    },
+    {
+        "code": "135",
+        "account_name": "Machine ",
+        "type": "Fixed Asset",
+        "pos_saldo": "DEBET",
+        "pos_laporan": "NERACA",
+        "debet": "700000000",
+        "credit": 0
+    },
+    {
+        "code": "146",
+        "account_name": "Less Accumulated Depreciation on Machine",
+        "type": "Fixed Asset",
+        "pos_saldo": "KREDIT",
+        "pos_laporan": "NERACA",
+        "debet": 0,
+        "credit": "525000000"
+    },
+    {
+        "code": "136",
+        "account_name": "Other Assets ",
+        "type": "Fixed Asset",
+        "pos_saldo": "DEBET",
+        "pos_laporan": "NERACA",
+        "debet": 0,
+        "credit": 0
+    },
+    {
+        "code": "147",
+        "account_name": "Less Accumulated Depreciation on Other Assets",
+        "type": "Fixed Asset",
+        "pos_saldo": "KREDIT",
+        "pos_laporan": "NERACA",
+        "debet": 0,
+        "credit": 0
+    },
+    {
+        "code": "201",
+        "account_name": "Accounts Payable",
+        "type": "Current Liability",
+        "pos_saldo": "KREDIT",
+        "pos_laporan": "NERACA",
+        "debet": 0,
+        "credit": "618476364"
+    },
+    {
+        "code": "202",
+        "account_name": "Wages Payable ",
+        "type": "Current Liability",
+        "pos_saldo": "KREDIT",
+        "pos_laporan": "NERACA",
+        "debet": 0,
+        "credit": 0
+    },
+    {
+        "code": "203",
+        "account_name": "Rent Payable ",
+        "type": "Current Liability",
+        "pos_saldo": "KREDIT",
+        "pos_laporan": "NERACA",
+        "debet": 0,
+        "credit": 0
+    },
+    {
+        "code": "204",
+        "account_name": "VAT - Out ",
+        "type": "Current Liability",
+        "pos_saldo": "KREDIT",
+        "pos_laporan": "NERACA",
+        "debet": 0,
+        "credit": 0
+    },
+    {
+        "code": "205",
+        "account_name": "Employee Tax Payable - 21 ",
+        "type": "Current Liability",
+        "pos_saldo": "KREDIT",
+        "pos_laporan": "NERACA",
+        "debet": 0,
+        "credit": "24992650"
+    },
+    {
+        "code": "206",
+        "account_name": "Income Tax Payable ",
+        "type": "Current Liability",
+        "pos_saldo": "KREDIT",
+        "pos_laporan": "NERACA",
+        "debet": 0,
+        "credit": "7012080"
+    },
+    {
+        "code": "207",
+        "account_name": "Account Payable to PT. Diza Interior",
+        "type": "Current Liability",
+        "pos_saldo": "KREDIT",
+        "pos_laporan": "NERACA",
+        "debet": 0,
+        "credit": 0
+    },
+    {
+        "code": "208",
+        "account_name": "Shareholders Receivable ",
+        "type": "Current Liability",
+        "pos_saldo": "KREDIT",
+        "pos_laporan": "NERACA",
+        "debet": 0,
+        "credit": 0
+    },
+    {
+        "code": "209",
+        "account_name": "Tax Payable",
+        "type": "Current Liability",
+        "pos_saldo": "KREDIT",
+        "pos_laporan": "NERACA",
+        "debet": 0,
+        "credit": "111619740"
+    },
+    {
+        "code": "211",
+        "account_name": "Vehicle Lease ",
+        "type": "Liability",
+        "pos_saldo": "KREDIT",
+        "pos_laporan": "NERACA",
+        "debet": 0,
+        "credit": "99379328"
+    },
+    {
+        "code": "212",
+        "account_name": "Other Payable ",
+        "type": "Liability",
+        "pos_saldo": "KREDIT",
+        "pos_laporan": "NERACA",
+        "debet": 0,
+        "credit": "185000000"
+    },
+    {
+        "code": "213",
+        "account_name": "Withholding Tax - Art 4(2) ",
+        "type": "Liability",
+        "pos_saldo": "KREDIT",
+        "pos_laporan": "NERACA",
+        "debet": 0,
+        "credit": "8000000"
+    },
+    {
+        "code": "214",
+        "account_name": "Bank Loan ",
+        "type": "Liability",
+        "pos_saldo": "KREDIT",
+        "pos_laporan": "NERACA",
+        "debet": 0,
+        "credit": "2641419815"
+    },
+    {
+        "code": "215",
+        "account_name": "Loan from Shareholders ",
+        "type": "Liability",
+        "pos_saldo": "KREDIT",
+        "pos_laporan": "NERACA",
+        "debet": 0,
+        "credit": 0
+    },
+    {
+        "code": "301",
+        "account_name": "Share Capital ",
+        "type": "Equity",
+        "pos_saldo": "KREDIT",
+        "pos_laporan": "NERACA",
+        "debet": 0,
+        "credit": "750000000"
+    },
+    {
+        "code": "302",
+        "account_name": "Additional Paid in Capital",
+        "type": "Equity",
+        "pos_saldo": "KREDIT",
+        "pos_laporan": "NERACA",
+        "debet": 0,
+        "credit": "2200000000"
+    },
+    {
+        "code": "303",
+        "account_name": "Current Year Earnings ",
+        "type": "Equity",
+        "pos_saldo": "KREDIT",
+        "pos_laporan": "NERACA",
+        "debet": 0,
+        "credit": 0
+    },
+    {
+        "code": "304",
+        "account_name": "Retained Earning ",
+        "type": "Equity",
+        "pos_saldo": "KREDIT",
+        "pos_laporan": "NERACA",
+        "debet": 0,
+        "credit": "4805011740"
+    },
+    {
+        "code": "305",
+        "account_name": "Corporate Income Tax",
+        "type": "",
+        "pos_saldo": "",
+        "pos_laporan": "",
+        "debet": 0,
+        "credit": 0
+    },
+    {
+        "code": "306",
+        "account_name": "Witholding Tax - Art 4(2) - Construction Services",
+        "type": "",
+        "pos_saldo": "",
+        "pos_laporan": "",
+        "debet": 0,
+        "credit": 0
+    },
+    {
+        "code": "401",
+        "account_name": "Sales",
+        "type": "Revenue",
+        "pos_saldo": "KREDIT",
+        "pos_laporan": "LABA RUGI",
+        "debet": 0,
+        "credit": 0
+    },
+    {
+        "code": "501",
+        "account_name": "Cost of Goods Sold",
+        "type": "Direct Cost",
+        "pos_saldo": "DEBET",
+        "pos_laporan": "LABA RUGI",
+        "debet": 0,
+        "credit": 0
+    },
+    {
+        "code": "502",
+        "account_name": "Purchase",
+        "type": "Direct Cost",
+        "pos_saldo": "DEBET",
+        "pos_laporan": "LABA RUGI",
+        "debet": 0,
+        "credit": 0
+    },
+    {
+        "code": "601",
+        "account_name": "Beginning Inventory",
+        "type": "Inventory",
+        "pos_saldo": "DEBET",
+        "pos_laporan": "LABA RUGI",
+        "debet": 0,
+        "credit": 0
+    },
+    {
+        "code": "602",
+        "account_name": "Ending Inventory",
+        "type": "Inventory",
+        "pos_saldo": "DEBET",
+        "pos_laporan": "LABA RUGI",
+        "debet": 0,
+        "credit": 0
+    },
+    {
+        "code": "701",
+        "account_name": "Wages and Salaries ",
+        "type": "Expense",
+        "pos_saldo": "DEBET",
+        "pos_laporan": "LABA RUGI",
+        "debet": 0,
+        "credit": 0
+    },
+    {
+        "code": "702",
+        "account_name": "Bank Fees ",
+        "type": "Expense",
+        "pos_saldo": "DEBET",
+        "pos_laporan": "LABA RUGI",
+        "debet": 0,
+        "credit": 0
+    },
+    {
+        "code": "703",
+        "account_name": "Professional Service ",
+        "type": "Expense",
+        "pos_saldo": "DEBET",
+        "pos_laporan": "LABA RUGI",
+        "debet": 0,
+        "credit": 0
+    },
+    {
+        "code": "704",
+        "account_name": "Depreciation ",
+        "type": "Expense",
+        "pos_saldo": "DEBET",
+        "pos_laporan": "LABA RUGI",
+        "debet": 0,
+        "credit": 0
+    },
+    {
+        "code": "705",
+        "account_name": "Entertainment ",
+        "type": "Expense",
+        "pos_saldo": "DEBET",
+        "pos_laporan": "LABA RUGI",
+        "debet": 0,
+        "credit": 0
+    },
+    {
+        "code": "706",
+        "account_name": "Meals allowance ",
+        "type": "Expense",
+        "pos_saldo": "DEBET",
+        "pos_laporan": "LABA RUGI",
+        "debet": 0,
+        "credit": 0
+    },
+    {
+        "code": "707",
+        "account_name": "Freight & Courier ",
+        "type": "Expense",
+        "pos_saldo": "DEBET",
+        "pos_laporan": "LABA RUGI",
+        "debet": 0,
+        "credit": 0
+    },
+    {
+        "code": "708",
+        "account_name": "Duty Tax ",
+        "type": "Expense",
+        "pos_saldo": "DEBET",
+        "pos_laporan": "LABA RUGI",
+        "debet": 0,
+        "credit": 0
+    },
+    {
+        "code": "709",
+        "account_name": "Insurance ",
+        "type": "Expense",
+        "pos_saldo": "DEBET",
+        "pos_laporan": "LABA RUGI",
+        "debet": 0,
+        "credit": 0
+    },
+    {
+        "code": "710",
+        "account_name": "Interest Expense",
+        "type": "Expense",
+        "pos_saldo": "DEBET",
+        "pos_laporan": "LABA RUGI",
+        "debet": 0,
+        "credit": 0
+    },
+    {
+        "code": "711",
+        "account_name": "Legal Expense",
+        "type": "Expense",
+        "pos_saldo": "DEBET",
+        "pos_laporan": "LABA RUGI",
+        "debet": 0,
+        "credit": 0
+    },
+    {
+        "code": "712",
+        "account_name": "Water  Expense",
+        "type": "Expense",
+        "pos_saldo": "DEBET",
+        "pos_laporan": "LABA RUGI",
+        "debet": 0,
+        "credit": 0
+    },
+    {
+        "code": "713",
+        "account_name": "Electricity  Expense",
+        "type": "Expense",
+        "pos_saldo": "DEBET",
+        "pos_laporan": "LABA RUGI",
+        "debet": 0,
+        "credit": 0
+    },
+    {
+        "code": "714",
+        "account_name": "Motor Vehicle Expense",
+        "type": "Expense",
+        "pos_saldo": "DEBET",
+        "pos_laporan": "LABA RUGI",
+        "debet": 0,
+        "credit": 0
+    },
+    {
+        "code": "715",
+        "account_name": "Fuel, Toll, & Parking  Expense",
+        "type": "Expense",
+        "pos_saldo": "DEBET",
+        "pos_laporan": "LABA RUGI",
+        "debet": 0,
+        "credit": 0
+    },
+    {
+        "code": "716",
+        "account_name": "Office Expense",
+        "type": "Expense",
+        "pos_saldo": "DEBET",
+        "pos_laporan": "LABA RUGI",
+        "debet": 0,
+        "credit": 0
+    },
+    {
+        "code": "717",
+        "account_name": "Warehouse  Expense",
+        "type": "Expense",
+        "pos_saldo": "DEBET",
+        "pos_laporan": "LABA RUGI",
+        "debet": 0,
+        "credit": 0
+    },
+    {
+        "code": "718",
+        "account_name": "Printing & Stationery ",
+        "type": "Expense",
+        "pos_saldo": "DEBET",
+        "pos_laporan": "LABA RUGI",
+        "debet": 0,
+        "credit": 0
+    },
+    {
+        "code": "719",
+        "account_name": "Rent ",
+        "type": "Expense",
+        "pos_saldo": "DEBET",
+        "pos_laporan": "LABA RUGI",
+        "debet": 0,
+        "credit": 0
+    },
+    {
+        "code": "720",
+        "account_name": "Repairs and Maintenance ",
+        "type": "Expense",
+        "pos_saldo": "DEBET",
+        "pos_laporan": "LABA RUGI",
+        "debet": 0,
+        "credit": 0
+    },
+    {
+        "code": "721",
+        "account_name": "Advertising Expense",
+        "type": "Expense",
+        "pos_saldo": "DEBET",
+        "pos_laporan": "LABA RUGI",
+        "debet": 0,
+        "credit": 0
+    },
+    {
+        "code": "722",
+        "account_name": "Tax  Expense",
+        "type": "Expense",
+        "pos_saldo": "DEBET",
+        "pos_laporan": "LABA RUGI",
+        "debet": 0,
+        "credit": 0
+    },
+    {
+        "code": "723",
+        "account_name": "Telephone & Internet ",
+        "type": "Expense",
+        "pos_saldo": "DEBET",
+        "pos_laporan": "LABA RUGI",
+        "debet": 0,
+        "credit": 0
+    },
+    {
+        "code": "724",
+        "account_name": "Transport & Accomodation ",
+        "type": "Expense",
+        "pos_saldo": "DEBET",
+        "pos_laporan": "LABA RUGI",
+        "debet": 0,
+        "credit": 0
+    },
+    {
+        "code": "725",
+        "account_name": "Currency Loss",
+        "type": "Expense",
+        "pos_saldo": "DEBET",
+        "pos_laporan": "LABA RUGI",
+        "debet": 0,
+        "credit": 0
+    },
+    {
+        "code": "726",
+        "account_name": "Income Tax  Expense",
+        "type": "Expense",
+        "pos_saldo": "DEBET",
+        "pos_laporan": "LABA RUGI",
+        "debet": 0,
+        "credit": 0
+    },
+    {
+        "code": "727",
+        "account_name": "Other Expense",
+        "type": "Expense",
+        "pos_saldo": "DEBET",
+        "pos_laporan": "LABA RUGI",
+        "debet": 0,
+        "credit": 0
+    },
+    {
+        "code": "728",
+        "account_name": "Bad Debt  Expense",
+        "type": "Expense",
+        "pos_saldo": "DEBET",
+        "pos_laporan": "LABA RUGI",
+        "debet": 0,
+        "credit": 0
+    },
+    {
+        "code": "729",
+        "account_name": "Land and Building Tax  Expense",
+        "type": "Expense",
+        "pos_saldo": "DEBET",
+        "pos_laporan": "LABA RUGI",
+        "debet": 0,
+        "credit": 0
+    },
+    {
+        "code": "801",
+        "account_name": "Other Revenue",
+        "type": "Revenue",
+        "pos_saldo": "KREDIT",
+        "pos_laporan": "LABA RUGI",
+        "debet": 0,
+        "credit": 0
+    },
+    {
+        "code": "802",
+        "account_name": "Interest Income",
+        "type": "Revenue",
+        "pos_saldo": "KREDIT",
+        "pos_laporan": "LABA RUGI",
+        "debet": 0,
+        "credit": 0
+    },
+    {
+        "code": "803",
+        "account_name": "Currency Gain",
+        "type": "Other Income",
+        "pos_saldo": "KREDIT",
+        "pos_laporan": "LABA RUGI",
+        "debet": 0,
+        "credit": 0
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "name": "Rel V1 + Bracket Single"
+    },
+    {
+        "name": "Rel V1 + Bracket Double"
+    },
+    {
+        "name": "Rel V1 + Bracket Ceiling"
+    },
+    {
+        "name": "Rel V17 + Bracket Single"
+    },
+    {
+        "name": "Rel V17 + Bracket Double"
+    },
+    {
+        "name": "Rel V17 + Bracket Ceiling"
+    },
+    {
+        "name": "Rel V20 + Bracket Single"
+    },
+    {
+        "name": "Rel V20 + Bracket Double"
+    },
+    {
+        "name": "Rel V20 + Bracket Ceiling"
+    },
+    {
+        "name": "Rel VIVA + Bracket Single"
+    },
+    {
+        "name": "Rel VIVA + Bracket Double"
+    },
+    {
+        "name": "Rel Lutron"
+    },
+    {
+        "name": "Rel Somfy"
+    }
+]
